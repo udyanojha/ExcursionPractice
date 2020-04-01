@@ -1,0 +1,42 @@
+html {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header {
+    color: white;
+    font-size: 50px;
+    font-weight: normal;
+   
+    margin-bottom: 35px;
+    padding-top: 30px;
+}
+a {
+    color: aquamarine;
+    font-size: 16px;
+    margin-top: 0px;
+    padding-bottom: 80px;
+}
+
+#video {
+    padding-top: 10px;
+}
+h2,h3 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+p {
+    font-size: 21px;
+    color: gray;
+}
+#cellphone {
+    padding-top: 30px;
+}
+footer {
+    text-align: right;
+    color: gray;
+    font-weight: 200;
+    font-size: 21px;
+}
